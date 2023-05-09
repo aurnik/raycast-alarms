@@ -16,4 +16,4 @@ If the system has a Focus enabled, notifications may be ignored but alert boxes 
 
 # Credits
 
-<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by Kiranshastry - Flaticon</a>
+[Clock icons created by Kiranshastry - Flaticon](https://www.flaticon.com/free-icons/clock)
