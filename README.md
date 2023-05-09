@@ -10,8 +10,9 @@ Creates alarms and timers based on the provided text.
 
 ## Preferences
 
-- Use alert box instead of notification banner (default: `true`)
-  If the system has a Focus enabled, notifications may be ignored but alert boxes will still show up.
+### Use alert box instead of notification banner (default: `true`)
+
+If the system has a Focus enabled, notifications may be ignored but alert boxes will still show up.
 
 # Credits
 
